@@ -10,7 +10,7 @@ EOS RAM 是 EOS 网络中用于存储数据的关键资源，是支撑 EOS 网�
 
 随着 RAM 不断地被租用，剩余可用的 RAM 越来越少时，RAM 所需要抵押的 EOS 就会越来越多，也就是说 RAM 的价格会越来越贵。
 
-EOS 上干什么都要消耗RAM（ 注册账户，生态应用等），下图就是EOS的DAPP消耗RAM。
+EOS 上干什么都要消耗 RAM（ 注册账户，生态应用等），下图就是 EOS 的 DAPP 消耗 RAM。
 
 ![Alt text](image-5.png)
 
@@ -54,15 +54,11 @@ nKB 的 RAM 的價格：
 
 ## 购买 RAM
 
-<video src="telegram-cloud-document-5-6156959751960792198.mp4" controls title="Title"></video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1hM-DB15P8I?si=X4UO5uPz3QKxLxzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mint RAMS
 
 [Mint RAMS 地址](https://ramseos.netlify.app/https://ramseos.netlify.app/) : https://ramseos.netlify.app/https://ramseos.netlify.app/
-
-
-
 
 ## Telegram 社区
 
