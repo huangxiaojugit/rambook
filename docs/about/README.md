@@ -26,7 +26,7 @@ RAM 的铭文，会赋予 EOS BTC L2 上的更多作用。
 
 EOS 基金会 CEO Yves 私人账号和 EOS Labs 强哥的账号都在前 10
 
-<iframe id="iframe" height=750 width=400 frameborder=0 allowfullscreen="true" src="https://www.eosram.info/">  
+<iframe id="iframe" height=750 width='100%' frameborder=0 allowfullscreen="true" src="https://www.eosram.info/">  
 </iframe>
 
 ## RAM 的价格
@@ -54,7 +54,7 @@ nKB 的 RAM 的價格：
 
 ## 购买 RAM
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hM-DB15P8I?si=X4UO5uPz3QKxLxzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1hM-DB15P8I?si=X4UO5uPz3QKxLxzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mint RAMS
 

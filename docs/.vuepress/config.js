@@ -14,13 +14,15 @@ export default {
         link: "/",
       },
       {
-        text: "介绍",
+        text: "关于",
         link: "/about",
       },
-      // {
-      //   text: "关于我们",
-      //   link: "/about/me.md",
-      // },
+      {
+        text: "RAMS排行榜",
+        link: "https://www.eosram.info/",
+      },
     ],
+    lastUpdated: false,
+    contributors: false,
   }),
 };
