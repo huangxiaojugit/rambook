@@ -18,8 +18,8 @@ export default {
         link: "/about",
       },
       // {
-      //   text: "如何购买",
-      //   link: "/buy",
+      //   text: "关于我们",
+      //   link: "/about/me.md",
       // },
     ],
   }),
