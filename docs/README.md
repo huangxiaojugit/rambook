@@ -3,7 +3,7 @@ home: true
 heroImage: /images/logo.png
 heroText: RAM
 heroHeight: 160
-tagline: 拥有RAM就相当于拥有了一块稀缺的土地
+tagline: 人类历史上第一个绝对公平、不可作弊的金融产品。
 actionText: 快速上手 →
 actionLink: /guide/
 features:

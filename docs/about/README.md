@@ -2,7 +2,7 @@
 
 ## 介绍
 
-### RAM 是什么？
+### RAM
 
 EOS RAM 是 EOS 网络中用于存储数据的关键资源，是支撑 EOS 网络高效运行的基础设施。不同于传统的中心化存储方式，EOS RAM 以其去中心化的特性，为数据的安全与可信提供了坚实的保障。
 
@@ -14,11 +14,11 @@ EOS 上干什么都要消耗 RAM（ 注册账户，生态应用等），下图�
 
 ![Alt text](image-5.png)
 
-#### BRAM
+### BRAM
 
 bRAM 是 Defibox 發行的 RAM 代币，該代币可以任意轉移、交易以及參與更多 Defi 玩法。
 
-#### RAMS
+### RAMS
 
 RAM 的铭文，会赋予 EOS BTC L2 上的更多作用。
 
@@ -26,8 +26,10 @@ RAM 的铭文，会赋予 EOS BTC L2 上的更多作用。
 
 EOS 基金会 CEO Yves 私人账号和 EOS Labs 强哥的账号都在前 10
 
-<iframe id="iframe" height=750 width='100%' frameborder=0 allowfullscreen="true" src="https://www.eosram.info/">  
-</iframe>
+> https://www.eosram.info/
+
+![Alt text](image-6.png)
+
 
 ## RAM 的价格
 
@@ -58,8 +60,8 @@ nKB 的 RAM 的價格：
 
 ## Mint RAMS
 
-[Mint RAMS 地址](https://ramseos.netlify.app/https://ramseos.netlify.app/) : https://ramseos.netlify.app/https://ramseos.netlify.app/
+[Mint RAMS 地址：https://ramseos.netlify.app/https://ramseos.netlify.app/](https://ramseos.netlify.app/https://ramseos.netlify.app/)
 
 ## Telegram 社区
 
-[RAM Telegram](https://t.me/rambroclub) : https://t.me/rambroclub
+[RAM Telegram：https://t.me/rambroclub ](https://t.me/rambroclub)

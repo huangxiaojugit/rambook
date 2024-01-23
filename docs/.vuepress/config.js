@@ -21,6 +21,10 @@ export default {
         text: "RAMS排行榜",
         link: "https://www.eosram.info/",
       },
+      {
+        text: "BTC L2 启动计划",
+        link: "https://acrobat.adobe.com/id/urn:aaid:sc:AP:9c5ff80b-20b3-4ff7-bf42-e716b65c9a4f",
+      },
     ],
     lastUpdated: false,
     contributors: false,
