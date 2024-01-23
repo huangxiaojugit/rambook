@@ -1,5 +1,7 @@
 // 具体配置文档: https://vuepress.vuejs.org/zh/guide/
 import { defaultTheme } from "@vuepress/theme-default";
+import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+
 export default {
   theme: defaultTheme({
     title: "RAM",
@@ -29,4 +31,9 @@ export default {
     lastUpdated: false,
     contributors: false,
   }),
+  plugins: [
+    googleAnalyticsPlugin({
+      id: "G-B98D40SRPP",
+    }),
+  ],
 };
