@@ -62,6 +62,10 @@ nKB 的 RAM 的價格：
 
 [Mint RAMS 地址：https://ramseos.netlify.app/https://ramseos.netlify.app/](https://ramseos.netlify.app/https://ramseos.netlify.app/)
 
-## Telegram 社区
+## 加入社区
 
 [RAM Telegram：https://t.me/rambroclub ](https://t.me/rambroclub)
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
